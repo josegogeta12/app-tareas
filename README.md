@@ -1,14 +1,14 @@
-# Webpack Starter
+# Aplicación de Tareas v1
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto web para la gestión de tareas
 
 ### Notas:
 
-Recuerden reconstruir los modulos de node
+Las tareas al recargar el navegador no se pierden
 ```
-npm install
+Las tareas se alojan en el Local Storage del navegador
 ```
-Y para construir el build, recuerden:
+Elaborado Por: Luis Ramos
 ```
-npm run build
+Creditos: Prof. Fernando Herrera (Curso de JavaScript) - Udemy
 ```
