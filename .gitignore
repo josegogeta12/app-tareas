@@ -1,0 +1,4 @@
+# carpetas a ignorar por el git
+node_modules/
+
+dist/
